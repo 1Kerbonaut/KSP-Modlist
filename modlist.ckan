@@ -4,349 +4,270 @@
     "name": "installed-portable",
     "abstract": "A list of modules installed on the portable KSP instance",
     "author": "oliver",
-    "version": "2025.02.15.12.13.12",
+    "version": "2025.02.15.01.26.11",
     "ksp_version_min": "1.10",
     "ksp_version_max": "1.12",
     "license": "MIT",
     "depends": [
         {
-            "name": "ALCOR",
-            "version": "1.0.1"
+            "name": "ALCOR"
         },
         {
-            "name": "Astrogator",
-            "version": "v1.0.2"
+            "name": "Astrogator"
         },
         {
-            "name": "CelestialHarmony",
-            "version": "1:0.9.2"
+            "name": "BetterBurnTime"
         },
         {
-            "name": "CommunityTechTree",
-            "version": "1:3.4.5"
+            "name": "CelestialHarmony"
         },
         {
-            "name": "ContractConfigurator",
-            "version": "v2.11.1.0"
+            "name": "CommunityTechTree"
         },
         {
-            "name": "ContractConfigurator-CleverSats",
-            "version": "1.4"
+            "name": "ContractConfigurator"
         },
         {
-            "name": "ContractConfigurator-ExplorationPlus",
-            "version": "2.0.1"
+            "name": "ContractConfigurator-CleverSats"
         },
         {
-            "name": "ContractConfigurator-FieldResearch",
-            "version": "1.2.2"
+            "name": "ContractConfigurator-ExplorationPlus"
         },
         {
-            "name": "ContractConfigurator-KerbalAcademy",
-            "version": "1.1.10"
+            "name": "ContractConfigurator-FieldResearch"
         },
         {
-            "name": "ContractConfigurator-KerbinSpaceStation",
-            "version": "2:3.7.3.3"
+            "name": "ContractConfigurator-KerbalAcademy"
         },
         {
-            "name": "ContractConfigurator-RoverMissionsRedux",
-            "version": "0.1.7"
+            "name": "ContractConfigurator-KerbinSpaceStation"
         },
         {
-            "name": "ContractConfigurator-Tourism",
-            "version": "1.5.2"
+            "name": "ContractConfigurator-RoverMissionsRedux"
         },
         {
-            "name": "ContractConfigurator-UnmannedContracts",
-            "version": "0.3.27"
+            "name": "ContractConfigurator-Tourism"
         },
         {
-            "name": "DE-IVAExtension",
-            "version": "v1.2.0"
+            "name": "ContractConfigurator-UnmannedContracts"
         },
         {
-            "name": "DockingPortAlignmentIndicator",
-            "version": "6.10.0.0"
+            "name": "DE-IVAExtension"
         },
         {
-            "name": "EasyVesselSwitch",
-            "version": "2.3"
+            "name": "Deferred"
         },
         {
-            "name": "EnvironmentalVisualEnhancements",
-            "version": "3:1.11.7.2"
+            "name": "DockingPortAlignmentIndicator"
         },
         {
-            "name": "FarFutureTechnologies",
-            "version": "1.4.2"
+            "name": "EasyVesselSwitch"
         },
         {
-            "name": "FerramAerospaceResearchContinued",
-            "version": "3:0.16.1.2"
+            "name": "EnvironmentalVisualEnhancements"
         },
         {
-            "name": "Firefly",
-            "version": "1.0.0.0"
+            "name": "FarFutureTechnologies"
         },
         {
-            "name": "FreeIva",
-            "version": "0.2.19.0"
+            "name": "FerramAerospaceResearchContinued"
         },
         {
-            "name": "HeatControl",
-            "version": "0.6.2"
+            "name": "Firefly"
         },
         {
-            "name": "HideEmptyTechNodes",
-            "version": "1.3.2"
+            "name": "FreeIva"
         },
         {
-            "name": "HullcamVDSContinued",
-            "version": "0.2.2.3"
+            "name": "HeatControl"
         },
         {
-            "name": "KAS",
-            "version": "1.12"
+            "name": "HideEmptyTechNodes"
         },
         {
-            "name": "KcalbelohSystem",
-            "version": "v1.1.8"
+            "name": "HullcamVDSContinued"
         },
         {
-            "name": "KcalbelohSystem-Textures-8k",
-            "version": "v1.1.8"
+            "name": "KAS"
         },
         {
-            "name": "KerbalEngineerRedux",
-            "version": "1.1.9.5"
+            "name": "KcalbelohSystem"
         },
         {
-            "name": "KerbalFoundriesContinued",
-            "version": "2.4.8.18"
+            "name": "KcalbelohSystem-Textures-8k"
         },
         {
-            "name": "KIS",
-            "version": "1.29"
+            "name": "KerbalEngineerRedux"
         },
         {
-            "name": "KSAIVAUpgrade",
-            "version": "v1.6.7"
+            "name": "KerbalFoundriesContinued"
         },
         {
-            "name": "KSPBurst",
-            "version": "v1.5.5.1"
+            "name": "KIS"
         },
         {
-            "name": "LoadingTipsPlus",
-            "version": "V1.9"
+            "name": "KSAIVAUpgrade"
         },
         {
-            "name": "MarkIVSpaceplaneSystem",
-            "version": "3.2.1"
+            "name": "KSPBurst"
         },
         {
-            "name": "MechJeb2",
-            "version": "2.14.3.0"
+            "name": "LoadingTipsPlus"
         },
         {
-            "name": "MechJebForAll",
-            "version": "1.3.0.7"
+            "name": "MarkIVSpaceplaneSystem"
         },
         {
-            "name": "MK12PodIVAReplacementbyASET",
-            "version": "1:v2.0.1"
+            "name": "MechJeb2"
         },
         {
-            "name": "Mk1CockpitIVAReplbyASET",
-            "version": "v2.0.1"
+            "name": "MechJebForAll"
         },
         {
-            "name": "Mk1LanderCanIVAReplbyASET",
-            "version": "v2.0.1"
+            "name": "MK12PodIVAReplacementbyASET"
         },
         {
-            "name": "NavUtilitiesUpdated",
-            "version": "0.8.0.9"
+            "name": "Mk1CockpitIVAReplbyASET"
         },
         {
-            "name": "NearFutureAeronautics",
-            "version": "2.1.2"
+            "name": "Mk1LanderCanIVAReplbyASET"
         },
         {
-            "name": "NearFutureConstruction",
-            "version": "1.3.3"
+            "name": "NavUtilitiesUpdated"
         },
         {
-            "name": "NearFutureElectrical",
-            "version": "2.0.1"
+            "name": "NearFutureAeronautics"
         },
         {
-            "name": "NearFutureElectrical-Core",
-            "version": "2.0.1"
+            "name": "NearFutureConstruction"
         },
         {
-            "name": "NearFutureElectrical-DecayingRTGs",
-            "version": "2.0.1"
+            "name": "NearFutureElectrical"
         },
         {
-            "name": "NearFutureExploration",
-            "version": "1.1.3"
+            "name": "NearFutureElectrical-Core"
         },
         {
-            "name": "NearFutureLaunchVehicles",
-            "version": "2.2.2"
+            "name": "NearFutureElectrical-DecayingRTGs"
         },
         {
-            "name": "NearFutureProps",
-            "version": "1:0.7.2"
+            "name": "NearFutureExploration"
         },
         {
-            "name": "NearFuturePropulsion",
-            "version": "1.3.6"
+            "name": "NearFutureLaunchVehicles"
         },
         {
-            "name": "NearFuturePropulsion-XenonHETs",
-            "version": "1.3.6"
+            "name": "NearFutureProps"
         },
         {
-            "name": "NearFutureSolar",
-            "version": "1.3.3"
+            "name": "NearFuturePropulsion"
         },
         {
-            "name": "NearFutureSolar-Core",
-            "version": "1.3.3"
+            "name": "NearFuturePropulsion-XenonHETs"
         },
         {
-            "name": "NearFutureSpacecraft",
-            "version": "1.4.6"
+            "name": "NearFutureSolar"
         },
         {
-            "name": "NearFutureSpacecraft-OrbitalLFOEngines",
-            "version": "1.4.6"
+            "name": "NearFutureSolar-Core"
         },
         {
-            "name": "OPTSpacePlaneMain",
-            "version": "1:3.1.1"
+            "name": "NearFutureSpacecraft"
         },
         {
-            "name": "OPTSpacePlaneParts",
-            "version": "1:3.1.2"
+            "name": "NearFutureSpacecraft-OrbitalLFOEngines"
         },
         {
-            "name": "Parallax",
-            "version": "2.0.8"
+            "name": "OPTSpacePlaneMain"
         },
         {
-            "name": "PlanetShine",
-            "version": "0.2.6.6"
+            "name": "OPTSpacePlaneParts"
         },
         {
-            "name": "ProceduralFairings",
-            "version": "1:v6.6.2.0"
+            "name": "Parallax"
         },
         {
-            "name": "ProceduralParts",
-            "version": "v2.6.0.0"
+            "name": "ProceduralFairings"
         },
         {
-            "name": "RasterPropMonitor",
-            "version": "1:v1.0.2"
+            "name": "ProceduralParts"
         },
         {
-            "name": "ReflectiveVisors",
-            "version": "0.1"
+            "name": "RasterPropMonitor"
         },
         {
-            "name": "ReStock",
-            "version": "1.5.1"
+            "name": "ReflectiveVisors"
         },
         {
-            "name": "ReStockPlus",
-            "version": "1.5.1"
+            "name": "ReStock"
         },
         {
-            "name": "Reviva",
-            "version": "1.0.0"
+            "name": "ReStockPlus"
         },
         {
-            "name": "RocketSoundEnhancement",
-            "version": "0.9.11"
+            "name": "Reviva"
         },
         {
-            "name": "SCANsat",
-            "version": "v20.4"
+            "name": "RocketSoundEnhancement"
         },
         {
-            "name": "Scatterer",
-            "version": "3:v0.0878"
+            "name": "SCANsat"
         },
         {
-            "name": "Trajectories",
-            "version": "v2.4.5.3"
+            "name": "Scatterer"
         },
         {
-            "name": "TweakScaleRescaled-Redist",
-            "version": "3.2.4"
+            "name": "Shaddy"
         },
         {
-            "name": "UKS",
-            "version": "1:v112.0.1"
+            "name": "Trajectories"
         },
         {
-            "name": "USI-ART",
-            "version": "1:v112.0.1"
+            "name": "TweakScaleRescaled-Redist"
         },
         {
-            "name": "USI-Core",
-            "version": "v112.0.1"
+            "name": "UKS"
         },
         {
-            "name": "USI-EXP",
-            "version": "v112.0.1"
+            "name": "USI-ART"
         },
         {
-            "name": "USI-FTT",
-            "version": "v112.0.1"
+            "name": "USI-Core"
         },
         {
-            "name": "USI-LS",
-            "version": "v112.0.1"
+            "name": "USI-EXP"
         },
         {
-            "name": "USITools",
-            "version": "v112.0.1"
+            "name": "USI-FTT"
         },
         {
-            "name": "VesselView",
-            "version": "2:0.8.9"
+            "name": "USI-LS"
         },
         {
-            "name": "VesselView-UI-RasterPropMonitor",
-            "version": "1:0.8.9"
+            "name": "USITools"
         },
         {
-            "name": "Waterfall",
-            "version": "0.10.3"
+            "name": "VesselView"
         },
         {
-            "name": "WaterfallRestock",
-            "version": "0.2.3"
+            "name": "VesselView-UI-RasterPropMonitor"
         },
         {
-            "name": "WaypointManager",
-            "version": "2.8.4.4"
+            "name": "Waterfall"
         },
         {
-            "name": "xScienceContinued",
-            "version": "6.0.2.1"
+            "name": "WaterfallRestock"
         },
         {
-            "name": "ZTheme",
-            "version": "v1.1.3"
+            "name": "WaypointManager"
+        },
+        {
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "ZTheme"
         }
     ],
-    "download": null,
-    "release_date": "2025-02-15T13:13:12.0434428+01:00",
+    "release_date": "2025-02-15T13:26:11.233478Z",
     "kind": "metapackage"
 }
