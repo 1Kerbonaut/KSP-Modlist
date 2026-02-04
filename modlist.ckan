@@ -1,10 +1,10 @@
 {
     "spec_version": "v1.6",
-    "identifier": "Custom-Modpack",
+    "identifier": "installed-portable",
     "name": "installed-portable",
     "abstract": "A list of modules installed on the portable KSP instance",
-    "author": "Kerbonaut",
-    "version": "2025.09.09.08.27.13",
+    "author": "Oliver",
+    "version": "2026.02.04.12.26.57",
     "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -18,7 +18,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer-sunflare",
+            "name": "VertexHeightOblateAdvanced",
             "suppress_recommendations": true
         },
         {
@@ -42,11 +42,15 @@
             "suppress_recommendations": true
         },
         {
+            "name": "PromisedWorldsCore",
+            "suppress_recommendations": true
+        },
+        {
             "name": "ReStock",
             "suppress_recommendations": true
         },
         {
-            "name": "Scatterer",
+            "name": "Scatterer-sunflare",
             "suppress_recommendations": true
         },
         {
@@ -59,10 +63,6 @@
         },
         {
             "name": "CustomBarnKit",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "EnvironmentalVisualEnhancements",
             "suppress_recommendations": true
         },
         {
@@ -98,6 +98,14 @@
             "suppress_recommendations": true
         },
         {
+            "name": "RationalResources",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
             "name": "VABOrganizer",
             "suppress_recommendations": true
         },
@@ -110,6 +118,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "WildBlue-PlayMode-CRP",
+            "suppress_recommendations": true
+        },
+        {
             "name": "AdvancedAtmosphereTools",
             "suppress_recommendations": true
         },
@@ -119,10 +131,6 @@
         },
         {
             "name": "ALCOR",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "Arktus",
             "suppress_recommendations": true
         },
         {
@@ -146,11 +154,19 @@
             "suppress_recommendations": true
         },
         {
+            "name": "ClassicStockResources",
+            "suppress_recommendations": true
+        },
+        {
             "name": "CommonwealthAeronauticsBlueSteel",
             "suppress_recommendations": true
         },
         {
             "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ConfigurableContainers",
             "suppress_recommendations": true
         },
         {
@@ -195,6 +211,10 @@
         },
         {
             "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
             "suppress_recommendations": true
         },
         {
@@ -254,6 +274,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbalJointReinforcementContinued",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalKonstructs",
             "suppress_recommendations": true
         },
@@ -291,6 +315,10 @@
         },
         {
             "name": "MK12PodIVAReplacementbyASET",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Mk2Expansion",
             "suppress_recommendations": true
         },
         {
@@ -358,6 +386,14 @@
             "suppress_recommendations": true
         },
         {
+            "name": "PromisedWorldsDebdeb",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PromisedWorldsTuun",
+            "suppress_recommendations": true
+        },
+        {
             "name": "RasterPropMonitor",
             "suppress_recommendations": true
         },
@@ -366,7 +402,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "RationalResources",
+            "name": "RationalResourcesCompanion",
             "suppress_recommendations": true
         },
         {
@@ -430,10 +466,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "VertexHeightOblateAdvanced",
-            "suppress_recommendations": true
-        },
-        {
             "name": "WaterfallRestock",
             "suppress_recommendations": true
         },
@@ -446,6 +478,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-09-09T20:27:13.4133495Z",
+    "release_date": "2026-02-04T12:26:57.1635524Z",
     "kind": "metapackage"
 }
